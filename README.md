@@ -31,16 +31,16 @@ A seguir são apresentadas as telas implementadas no sistema.
 ![image](https://github.com/user-attachments/assets/fc40fcaf-555e-4e0a-a222-2e9a2394b45a)
 
 # Tela de Produtos Cadastrados.
-![image](https://github.com/user-attachments/assets/268b5588-87a9-4106-a36a-7603bd068382)
+![image](https://github.com/user-attachments/assets/fa113d6e-3f6f-4fb9-b949-57af77fe5b61)
 
 # Tela de Pesquisa por nome ou número do chamado.
-![image](https://github.com/user-attachments/assets/3fbbd14f-caf9-4a6d-8716-98086c7e34f9)
+![image](https://github.com/user-attachments/assets/321b003a-acf4-466a-b977-08c2a5f2c4cd)
 
 # Botão de acesso ao portal de chamados.
-![image](https://github.com/user-attachments/assets/ea613a3f-e35e-4b2f-9c10-7f50d3740fdc)
+![image](https://github.com/user-attachments/assets/85e07df1-2524-4956-a87f-72eaf42bffcd)
 
 # Sessão para incluir o número do chamado.
-![image](https://github.com/user-attachments/assets/537ce33c-a232-473b-8ab4-f7c4f06ec422)
+![image](https://github.com/user-attachments/assets/5359dbbe-9db0-44f2-a376-ba7c817ad74d)
 
 Nesse projeto foi utilizado o gerenciador de servidores web, XAMPP.
 
