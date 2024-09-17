@@ -16,3 +16,4 @@ Acesso rápido ao portal de abertura de chamados (Snow Service Now): Adição de
 
 Essas melhorias visam aprimorar o controle e a eficiência do gerenciamento de estoque, atendendo melhor às necessidades do trabalho final.
 
+![image](https://github.com/user-attachments/assets/a070ca94-7989-4c0d-8194-45ec3ac60e72)
